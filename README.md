@@ -1,4 +1,4 @@
-show
+show.js
 ====
 
-don't just test, show your tests
+minimal client js testing + reporting
